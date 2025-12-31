@@ -5,4 +5,4 @@
 print("Hello, World!")
 print("这是我的 LeetCode-Solutions 仓库")
 print("每天刷题，每天commit，贡献图要绿！")
-print("加油！我们一起冲！")
+print("加油！我们一起冲！🚀")
